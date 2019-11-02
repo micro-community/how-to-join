@@ -32,7 +32,7 @@ very easy to join community and contribute code , readme.
       
   ### Step 4 : you are welcome!
       
-      1、 [Click Here](https://github.com/micro-community/how-to-join/issues/new) to create a issue with Title: ** [Apply to Join] I am a go-micro lover and coder **
+      1、 [[Click Here]](https://github.com/micro-community/how-to-join/issues/new) to create a issue with Title: ** [Apply to Join] I am a go-micro lover and coder **
       2、use this this teplate：
          
          ** Who I am **
