@@ -16,6 +16,7 @@ very easy to join community and contribute code , readme.
       Have you joined github more one year ?
 
       yes -----> to step 3
+      
       no ,but i still want to join ----> to step 5  
       
  ### Step 3 : Review your enthusiasm
@@ -23,13 +24,15 @@ very easy to join community and contribute code , readme.
       did you have one repo in your github more than 6 month ?
 
       yes -----> to Step 4
+      
       no ,but i still want to join ----> to step 5
+      
       no, i think ,i will come later ? ----> welcome back next time.
       
       
   ### Step 4 : you are welcome!
       
-      1、[Click Here](https://github.com/micro-community/how-to-join/issues/new)  to create a issue with Title: ** [Apply to Join] I am a go-micro lover and coder **
+      1、 [Click Here](https://github.com/micro-community/how-to-join/issues/new) to create a issue with Title: ** [Apply to Join] I am a go-micro lover and coder **
       2、use this this teplate：
          
          ** Who I am **
@@ -40,6 +43,7 @@ very easy to join community and contribute code , readme.
           i want use go-micro .... or i had some awesome idea ... or i had done some ...
           
          ------- 
+         
        OK,that is all, just waiting.
        
  ### Step 5 : Special Action
