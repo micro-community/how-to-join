@@ -1,6 +1,6 @@
 # how-to-join
 
-very easy to join community and contribute code , readme.
+very easy to join community and become a member from a visitor, readme.
 
 ## to join is very easy to go ,this is an open community
 
