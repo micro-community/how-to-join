@@ -9,7 +9,7 @@ assignees: ''
 
 **Who I am**
 
-introduce yourself simplely ,to let people have a impression.
+introduce yourself simply ,to let people have a impression.
 
 **What I want to do**
 
