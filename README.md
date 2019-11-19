@@ -1,4 +1,4 @@
-# how-to-join
+# How To Join
 
 very easy to join community and become a member from a visitor.
 
