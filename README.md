@@ -1,6 +1,8 @@
 # How To Join
 
-very easy to join community and become a member from a visitor.
+very easy to join micro open community and become a member from a visitor.
+
+eventually, we wish having honor to invite you join in our core team.
 
 ## very easy to join ,this is an open community
 
