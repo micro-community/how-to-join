@@ -2,7 +2,7 @@
 
 very easy to join community and become a member from a visitor.
 
-## to join is very easy to go ,this is an open community
+## very easy to join ,this is an open community
 
 ### Step 1: Answer this question
 
