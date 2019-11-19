@@ -38,11 +38,11 @@ no, i think ,i will come later ? ----> welcome back next time.
 
 -------
 
-        ** Who I am **
+        **Who I am**
 
         introduce yourself simplely ,to let people have a impression.
 
-        ** What I want to do **
+        **What I want to do**
 
         i want use go-micro .... or i had some awesome idea ... or i had done some ...
 
