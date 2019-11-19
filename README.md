@@ -62,3 +62,8 @@ no, i think ,i will come later ? ----> welcome back next time.
 - 4、reply your applyment to mention<with @> this memmber,told community someone consider you ready.
 
 - 5、if you can't find someone who will consider you ready ,you can try next time.
+
+### One More Help Plus
+
+If you are in our wechat group,Just contanct our team members to ask them to invite you, if you are ready.
+
