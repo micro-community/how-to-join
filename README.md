@@ -22,7 +22,7 @@ no ,but i still want to join ----> to step 5
 
 ### Step 3 : Review your enthusiasm
 
-did you have one repo in your github more than 6 month ?
+did you have ,at least, one repo in your github more than 6 month ?
 
 yes -----> to Step 4
 
