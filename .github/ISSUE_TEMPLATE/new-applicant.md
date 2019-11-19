@@ -1,6 +1,6 @@
 ---
-name: new applicant
-about: Create a new request to apply for a member
+name: Join Micro Open Community
+about: Create a new request to apply 
 title: "[Apply to Join] I am a go-micro lover and coder"
 labels: applicant
 assignees: ''
