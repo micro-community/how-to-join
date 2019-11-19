@@ -1,15 +1,15 @@
 ---
 name: Join Micro Open Community
 about: Create a new request to apply 
-title: "[Apply to Join] I am a go-micro lover and coder"
+title: [Apply to Join] I am a go-micro lover and coder
 labels: applicant
-assignees: ''
+assignees: 
 
 ---
 
 **Who I am**
 
-introduce yourself simplely ,to let people have a impression.
+introduce yourself simply ,to let people have a impression.
 
 **What I want to do**
 
