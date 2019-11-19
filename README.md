@@ -65,5 +65,5 @@ no, i think ,i will come later ? ----> welcome back next time.
 
 ### One More Help Plus
 
-If you are in our wechat group,Just contanct our team members to ask them to invite you, if you are ready.
+If you are in our wechat group,Just contanct our team members to ask them inviting you, if you are ready.
 
