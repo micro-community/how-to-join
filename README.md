@@ -53,7 +53,7 @@ no, i think ,i will come later ? ----> welcome back next time.
        OK,that is all, just waiting.
 
 
-### Step 5 : Special Action(Only for choosing no in step 3)
+### Step 5 : Special Action(Only for choosing <No> in step 3)
 
 - 1、finished step 4 first.
 
