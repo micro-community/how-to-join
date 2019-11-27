@@ -43,10 +43,12 @@ no, i think ,i will come later ? ----> welcome back next time.
         **Who I am**
 
         introduce yourself simplely ,to let people have a impression.
+         或者使用中文描述.
 
         **What I want to do**
 
         i want use go-micro .... or i had some awesome idea ... or i had done some ...
+        或者使用中文描述.
 
 -------
 
