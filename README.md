@@ -14,25 +14,18 @@ yes --> to Step 2
 
 No --> sorry ,you can't join .
 
-### Step 2 : Judge your github ages
 
-Have you joined github more one year ?
-
-yes -----> to step 3
-
-no ,but i still want to join ----> to step 5
-
-### Step 3 : Review your enthusiasm
+### Step 2 : Review your enthusiasm
 
 did you have ,at least, one repo in your github more than 6 month ?
 
-yes -----> to Step 4
+yes -----> to Step 3
 
-no ,but i still want to join ----> to step 5
+no ,but i still want to join ----> to step 4
 
 no, i think ,i will come later ? ----> welcome back next time.
 
-### Step 4 : you are welcome
+### Step 3 : you are welcome
 
 - 1、**[[Click Here](https://github.com/micro-community/how-to-join/issues/new)]** to create a issue with Title: **[Apply to Join] I am a go-micro lover and coder**
 
@@ -55,9 +48,9 @@ no, i think ,i will come later ? ----> welcome back next time.
        OK,that is all, just waiting.
 
 
-### Step 5 : Special Action(Only for choosing <No> in step 3)
+### Step 4 : Special Action(Only for choosing <No> in step 2)
 
-- 1、finished step 4 first.
+- 1、finished step 3 first.
 
 - 2、find someone who had already joined community.
 
