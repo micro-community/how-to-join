@@ -64,3 +64,11 @@ no, i think ,i will come later ? ----> welcome back next time.
 
 If you are in our wechat group,Just contanct our team members to ask them inviting you, if you are ready.
 
+### if you wish a quick response 
+
+find us in wechat: 
+
+![img](https://github.com/GB28181/GB28181.Solution/raw/develop/docs/crazybber.jpg)
+
+加微信请备注：micro 否则不通过。
+
