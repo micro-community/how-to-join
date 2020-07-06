@@ -6,26 +6,18 @@ eventually, we wish having honor to invite you join in our core team.
 
 ## very easy to join ,this is an open community
 
-### Step 1: Answer this question
 
-did you have a github account ?
-
-yes --> to Step 2
-
-No --> sorry ,you can't join .
-
-
-### Step 2 : Review your enthusiasm
+### Step 1 : Review your enthusiasm
 
 did you have ,at least, one repo in your github more than 6 month ?
 
-yes -----> to Step 3
+yes -----> to Step 2
 
-no ,but i still want to join ----> to step 4
+no ,but i still want to join ----> to step 3
 
 no, i think ,i will come later ? ----> welcome back next time.
 
-### Step 3 : you are welcome
+### Step 2 : you are welcome
 
 - 1、**[[Click Here](https://github.com/micro-community/how-to-join/issues/new)]** to create a issue with Title: **[Apply to Join] I am a go-micro lover and coder**
 
@@ -47,18 +39,6 @@ no, i think ,i will come later ? ----> welcome back next time.
 
        OK,that is all, just waiting.
 
-
-### Step 4 : Special Action(Only for choosing <No> in step 2)
-
-- 1、finished step 3 first.
-
-- 2、find someone who had already joined community.
-
-- 3、have simple talk with this member.
-
-- 4、reply your applyment to mention<with @> this memmber,told community someone consider you ready.
-
-- 5、if you can't find someone who will consider you ready ,you can try next time.
 
 ### One More Help Plus
 
