@@ -66,7 +66,13 @@ If you are in our wechat group,Just contanct our team members to ask them inviti
 
 ### if you wish a quick response 
 
-find us in wechat: 
+关注微信公众号、微信群：
+<div style="float:left">
+<img src="https://github.com/micro-in-cn/Notice/raw/master/donation/wx_qrcode.jpg" width="30%">
+<img src="https://github.com/micro-in-cn/Notice/raw/master/donation/wx_group_v1.png" width="30%"> 
+</div>
+
+or find us in wechat: 
 
 ![img](https://github.com/GB28181/GB28181.Solution/raw/develop/docs/crazybber.jpg)
 
