@@ -9,11 +9,9 @@ eventually, we wish having honor to invite you join in our core team.
 
 ### Step 1 : Review your enthusiasm
 
-did you have ,at least, one repo in your github more than 6 month ?
+did you have ,at least, any coding experience more 1 years?
 
 yes -----> to Step 2
-
-no ,but i still want to join ----> to step 3
 
 no, i think ,i will come later ? ----> welcome back next time.
 
