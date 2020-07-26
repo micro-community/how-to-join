@@ -13,7 +13,7 @@ did you have ,at least, any coding experience more 1 years?
 
 yes -----> to Step 2
 
-no, i think ,i will come later  ----> welcome back next time.
+no, thanks,i will come later  ----> welcome back next time.
 
 ### Step 2 : you are welcome
 
