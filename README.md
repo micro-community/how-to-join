@@ -56,6 +56,5 @@ find us in wechat:
 
 <div style="float:left">
 <img src="https://github.com/stack-labs/Notice/raw/master/donation/wx_qrcode.jpg" width="30%">
-<img src="https://github.com/stack-labs/Notice/raw/master/donation/wx_group_v1.png" width="30%"> 
 </div>
 
