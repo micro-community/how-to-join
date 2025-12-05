@@ -46,7 +46,7 @@ If you are in our wechat group,Just contanct our team members to ask them inviti
 
 find me in wechat: (disabled)
 
--![img](https://github.com/GB28181/GB28181.Solution/raw/develop/docs/crazybber.jpg)
+[img](https://github.com/GB28181/GB28181.Solution/raw/develop/docs/crazybber.jpg)
 
 加微信请备注：micro-community。
 
