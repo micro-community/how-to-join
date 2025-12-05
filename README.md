@@ -51,9 +51,3 @@ find me in wechat: (disabled)
 加微信请备注：micro-community。
 
 
-### 加入Stack-Labs(a go-micro v1.18 fork)
-
-<div style="float:left">
-<img src="https://github.com/stack-labs/Notice/raw/master/donation/wx_qrcode.jpg" width="30%">
-</div>
-
