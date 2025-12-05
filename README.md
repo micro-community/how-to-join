@@ -44,12 +44,9 @@ If you are in our wechat group,Just contanct our team members to ask them inviti
 
 ### if you wish a quick response 
 
-关注微信公众号、微信群：
-find us in wechat: 
-
+find me in wechat: 
 ![img](https://github.com/GB28181/GB28181.Solution/raw/develop/docs/crazybber.jpg)
-
-加微信请备注：micro 否则不通过。
+加微信请备注：micro-community。
 
 
 ### 加入Stack-Labs(a go-micro v1.18 fork)
